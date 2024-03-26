@@ -3,4 +3,5 @@
 *obj/*
 *bin/*
 *.o
+compile_commands.json
 
