@@ -5,6 +5,7 @@ set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
 
 add_subdirectory(lib/glfw)
 add_subdirectory(lib/cglm)
+add_subdirectory(lib/openal-soft)
 
 include_directories(lib/glad/include)
 include_directories(lib/stb)
